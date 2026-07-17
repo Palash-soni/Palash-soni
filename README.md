@@ -1,4 +1,4 @@
-# Palash Soni's GitHub Profile README
+# Welcome to Palash Soni's GitHub Profile
 
 ![Futuristic Tech Banner](./github_profile_banner.png)
 
