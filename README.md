@@ -9,7 +9,7 @@
   ### 💻 Full-Stack Developer | MERN Stack | Next JS | 
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+Specialist;Python+%26+Django+Developer;Passionate+about+clean+and+modern+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+Specialist;Next+%26+JS+Developer;Passionate+about+clean+and+modern+UI" alt="Typing SVG" />
   </p>
 
   <p align="center">
