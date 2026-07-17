@@ -9,7 +9,7 @@
   ### 💻 Full-Stack Developer | MERN Stack | Next JS | 
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+Specialist;Next+%26+JS+Developer;Passionate+about+clean+and+modern+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+Stack+Specialist;Next+JS+Developer;Passionate+about+clean+and+modern+UI" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -73,12 +73,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Palash-soni&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=ff007f&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Palash Soni's GitHub stats" height="180px" />
+          <img src="https://github-stats-extended.vercel.app/api?username=Palash-soni&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=ff007f&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Palash Soni's GitHub stats" height="180px" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash-soni&layout=compact&theme=tokyonight&title_color=00f0ff&icon_color=ff007f&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Palash Soni's Top Langs" height="180px" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Palash-soni&layout=compact&theme=tokyonight&title_color=00f0ff&icon_color=ff007f&text_color=cbd5e1&bg_color=0b0f19&hide_border=true" alt="Palash Soni's Top Langs" height="180px" />
         </a>
       </td>
     </tr>
@@ -87,7 +87,7 @@
   <br />
 
   <a href="https://github.com/ashutoshgandr/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palash-soni&theme=tokyonight&background=0b0f19&ring=00f0ff&fire=ff007f&stroke=1e293b&currStreakNum=cbd5e1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Palash-soni&theme=tokyonight&background=0b0f19&ring=00f0ff&fire=ff007f&stroke=1e293b&currStreakNum=cbd5e1" alt="GitHub Streak" />
   </a>
 
 <br /><br />
